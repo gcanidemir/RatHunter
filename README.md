@@ -1,12 +1,6 @@
-# My_First_Game
+# RatHunter
 Simple Unity Game
 
-Controls:
+[To Access the Demo](https://youtu.be/aW_R2H_cqqE?feature=shared)
 
-WASD - To Move
-
-Purpose:
-
-Jump on the rats in order to pass the level.
-
-[To Access the game](https://gcanidemir.github.io/My_First_Game/)
+[To Play the Game](https://gcanidemir.itch.io/rathunter)
